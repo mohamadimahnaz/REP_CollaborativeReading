@@ -1,5 +1,5 @@
 {
-
+"homepage": "http://rep_collaborativereading",
   "name": "rep_collaborativereading",
   "version": "0.1.0",
   "private": true,
@@ -56,5 +56,5 @@
   "bugs": {
     "url": "https://github.com/mohamadimahnaz/REP_CollaborativeReading/issues"
   },
-  "homepage": "https://github.com/mohamadimahnaz/REP_CollaborativeReading"
+ 
 }
