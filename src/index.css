@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 2rem;
+    font-family: sans-serif;
+}
+
+.menu {
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px 10px 5px 15px;
+    background-image: url(coll.jpg);
+    height: 150px;
+}
+
+.active {
+    color: red;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
