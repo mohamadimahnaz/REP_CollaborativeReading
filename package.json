@@ -1,14 +1,16 @@
 {
-"homepage": "http://REP_CollaborativeReading",
-  "name": "REP_CollaborativeReadingg",
-   "version": "0.1.0",
+    " homepage ": " http: //mohamadimahnaz.github.io/REP_CollaborativeReading",
+    "name": "REP_CollaborativeReading",
+    "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@testing-library/jest-dom": "^5.11.4",
-        "@testing-library/react": "^11.1.0",
-        "@testing-library/user-event": "^12.1.10",
-        "react": "^17.0.1",
-        "react-dom": "^17.0.1",
+        "@testing-library/jest-dom": "^5.11.6",
+        "@testing-library/react": "^11.2.2",
+        "@testing-library/user-event": "^12.6.0",
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "4.0.1",
         "web-vitals": "^0.2.4"
     },
     "scripts": {
@@ -38,7 +40,21 @@
         ]
     },
     "devDependencies": {
+        "babel-core": "^6.24.1",
+        "babel-loader": "^7.0.0",
         "gh-pages": "^3.1.0",
-        "react-scripts": "4.0.1"
-    }
+        "webpack": "^3.11.0"
+    },
+    "description": "### `npm start`",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohamadimahnaz/REP_CollaborativeReading.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mohamadimahnaz/REP_CollaborativeReading/issues"
+    },
+    "homepage": "https://github.com/mohamadimahnaz/REP_CollaborativeReading#index"
 }
